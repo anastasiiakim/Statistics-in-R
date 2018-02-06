@@ -1,0 +1,401 @@
+Seatbelt Gender Vehicle Location
+yes   male  pickup    rural
+yes   male  pickup    rural
+yes   male     van    rural
+yes   male     SUV    rural
+ no   male     car    rural
+yes female     SUV    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+ no female     car    rural
+yes   male  pickup    rural
+yes   male     car    rural
+yes female     car    rural
+yes female     SUV    rural
+ no   male     SUV    rural
+yes   male     car    rural
+ no   male  pickup    rural
+yes female     car    rural
+ no   male  pickup    rural
+yes female     car    rural
+ no   male     car    rural
+yes   male  pickup    rural
+ no female     SUV    rural
+yes female     SUV    rural
+yes female     car    rural
+ no female     car    rural
+yes female     van    rural
+ no   male  pickup    rural
+ no   male     car    rural
+yes   male  pickup    rural
+yes female     car    rural
+yes female     car    rural
+ no   male  pickup    rural
+ no   male  pickup    rural
+ no female     van    rural
+yes female     car    rural
+yes female     car    rural
+ no female     car    rural
+yes   male     car    rural
+yes female     van    rural
+yes   male  pickup    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+ no female     car    rural
+yes   male  pickup    rural
+ no   male  pickup    rural
+ no   male  pickup    rural
+ no female     car    rural
+ no female     SUV    rural
+yes female     SUV    rural
+ no   male  pickup    rural
+ no female     car    rural
+yes female     SUV    rural
+yes female  pickup    rural
+yes female     car    rural
+ no   male  pickup    rural
+ no   male     car    rural
+yes female     car    rural
+yes   male  pickup    rural
+yes   male     car    rural
+ no female     car    rural
+ no   male     car    rural
+yes female     car    rural
+ no   male  pickup    rural
+ no female     car    rural
+yes   male     car    rural
+ no female     van    rural
+yes   male  pickup    rural
+yes female  pickup    rural
+ no   male  pickup    rural
+yes female     car    rural
+yes   male  pickup    rural
+yes female     SUV    rural
+ no female     SUV    rural
+ no female  pickup    rural
+ no   male     van    rural
+yes female     car    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+yes female     SUV    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+yes   male     SUV    rural
+ no   male  pickup    rural
+yes   male     SUV    rural
+ no female     car    rural
+yes   male     van    rural
+yes   male     SUV    rural
+yes   male     SUV    rural
+yes   male     car    rural
+yes   male     car    rural
+ no   male  pickup    rural
+yes female     car    rural
+ no female  pickup    rural
+ no   male  pickup    rural
+yes female     SUV    rural
+ no female  pickup    rural
+yes   male  pickup    rural
+yes female     car    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+yes female     SUV    rural
+yes female     car    rural
+yes female     car    rural
+ no   male     car    rural
+yes   male     SUV    rural
+yes female     car    rural
+yes female     SUV    rural
+yes female     SUV    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+ no female     SUV    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+ no   male  pickup    rural
+yes female     car    rural
+yes   male  pickup    rural
+yes   male     SUV    rural
+yes   male  pickup    rural
+yes   male     car    rural
+yes female     car    rural
+ no   male  pickup    rural
+yes female     van    rural
+yes female     van    rural
+yes   male  pickup    rural
+ no   male     car    rural
+ no   male  pickup    rural
+ no   male  pickup    rural
+ no female     SUV    rural
+yes   male  pickup    rural
+yes   male  pickup    rural
+yes   male     van    rural
+yes female     car    rural
+yes   male     car    rural
+ no female     car    rural
+yes female     van    rural
+yes   male  pickup    rural
+yes   male     SUV    rural
+yes   male     SUV    rural
+ no   male     car    rural
+ no   male  pickup    rural
+ no female     car    rural
+ no   male     SUV    rural
+ no female     car    rural
+yes   male     car    rural
+yes   male  pickup    rural
+yes female     SUV    rural
+ no female     SUV    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+ no   male  pickup    rural
+ no   male  pickup    rural
+ no female     car    rural
+ no   male  pickup    rural
+yes   male  pickup    rural
+yes   male     car    rural
+ no   male     SUV    rural
+ no   male  pickup    rural
+yes female  pickup    rural
+yes female     car    rural
+yes   male     car    rural
+yes female     car    rural
+yes female     car    rural
+yes female     SUV    rural
+yes   male     car    rural
+ no female     car    rural
+ no   male  pickup    rural
+ no female     SUV    rural
+ no   male  pickup    rural
+yes female     SUV    rural
+yes female     SUV    rural
+yes   male  pickup    rural
+yes female     SUV    rural
+yes   male  pickup    rural
+yes   male     SUV    rural
+yes female     car    rural
+yes female     car    rural
+ no   male     car    rural
+ no   male     van    rural
+yes female  pickup    rural
+yes female     SUV    rural
+yes   male  pickup    rural
+ no   male  pickup    rural
+ no   male  pickup    rural
+yes female     SUV    rural
+yes   male     car    rural
+ no female     car    rural
+ no   male  pickup    rural
+yes female     SUV    rural
+yes female     car    rural
+ no female     car    rural
+yes female     car    rural
+yes female     car    rural
+ no female     SUV    rural
+yes female     car    rural
+yes   male     car    rural
+yes   male     car    urban
+yes   male     SUV    urban
+yes female     car    urban
+yes female     SUV    urban
+yes   male     car    urban
+yes female     van    urban
+yes   male     SUV    urban
+yes female     SUV    urban
+yes   male     SUV    urban
+yes female     car    urban
+ no female     car    urban
+yes   male  pickup    urban
+yes   male     car    urban
+yes female     van    urban
+yes female     van    urban
+yes   male     car    urban
+yes female     van    urban
+yes   male     van    urban
+yes   male     SUV    urban
+yes   male     car    urban
+ no   male  pickup    urban
+ no   male     car    urban
+yes   male     car    urban
+yes   male     car    urban
+yes   male     car    urban
+ no female     car    urban
+yes   male     car    urban
+yes female     SUV    urban
+yes   male     car    urban
+ no   male     car    urban
+yes   male  pickup    urban
+ no   male  pickup    urban
+yes   male     car    urban
+yes   male  pickup    urban
+yes female     car    urban
+yes female     van    urban
+yes   male     SUV    urban
+yes female     car    urban
+ no   male     car    urban
+ no   male  pickup    urban
+yes   male     SUV    urban
+yes female     SUV    urban
+yes   male  pickup    urban
+yes female     SUV    urban
+ no   male     SUV    urban
+ no   male     car    urban
+yes female     SUV    urban
+ no   male  pickup    urban
+yes female     SUV    urban
+yes   male     SUV    urban
+yes   male  pickup    urban
+ no   male     SUV    urban
+yes   male  pickup    urban
+yes female     SUV    urban
+yes   male     SUV    urban
+yes   male     car    urban
+ no   male     van    urban
+yes   male     van    urban
+yes   male     SUV    urban
+yes   male     SUV    urban
+ no   male     van    urban
+yes   male  pickup    urban
+yes   male     van    urban
+yes female     SUV    urban
+yes   male     van    urban
+yes female     car    urban
+yes   male     car    urban
+ no female     car    urban
+yes female     car    urban
+yes   male     SUV    urban
+yes   male     SUV    urban
+ no   male     SUV    urban
+ no   male     car    urban
+yes female     SUV    urban
+yes   male     car    urban
+yes   male     SUV    urban
+yes   male     SUV    urban
+ no female     car    urban
+yes female     SUV    urban
+ no   male     van    urban
+yes   male     SUV    urban
+yes   male     van    urban
+yes female     SUV    urban
+yes   male  pickup    urban
+yes   male     van    urban
+ no   male  pickup    urban
+ no   male  pickup    urban
+yes   male  pickup    urban
+yes female     car    urban
+ no   male     car    urban
+yes   male     SUV    urban
+yes   male     car    urban
+yes female     SUV    urban
+ no   male     van    urban
+yes female     van    urban
+yes   male     SUV    urban
+yes   male     car    urban
+yes   male     car    urban
+ no female     van    urban
+yes female     SUV    urban
+yes   male     SUV    urban
+yes   male     car    urban
+yes   male     SUV    urban
+ no   male     SUV    urban
+yes female     SUV    urban
+ no   male     car    urban
+yes   male     van    urban
+yes female     SUV    urban
+yes   male  pickup    urban
+yes   male     van    urban
+yes   male     van    urban
+yes   male     car    urban
+ no   male     SUV    urban
+yes female     car    urban
+yes female     car    urban
+yes female     car    urban
+ no female     car    urban
+ no   male     SUV    urban
+yes female     van    urban
+ no female     car    urban
+yes female     SUV    urban
+ no   male  pickup    urban
+ no   male     van    urban
+ no female  pickup    urban
+yes female     car    urban
+yes   male     car    urban
+yes female     car    urban
+yes   male  pickup    urban
+yes   male  pickup    urban
+ no female     van    urban
+yes   male     SUV    urban
+ no   male     SUV    urban
+yes female     car    urban
+yes   male     SUV    urban
+ no   male     SUV    urban
+yes   male  pickup    urban
+yes   male     SUV    urban
+yes female     SUV    urban
+ no female     car    urban
+yes   male     car    urban
+yes   male     car    urban
+yes   male     car    urban
+yes female     car    urban
+ no   male     van    urban
+ no   male     car    urban
+yes female     car    urban
+yes   male     SUV    urban
+yes   male     car    urban
+yes female     car    urban
+yes   male     SUV    urban
+ no female     SUV    urban
+yes female  pickup    urban
+ no   male     car    urban
+yes   male  pickup    urban
+yes female     car    urban
+yes female     car    urban
+yes   male     SUV    urban
+yes   male  pickup    urban
+ no   male  pickup    urban
+yes female     car    urban
+yes   male     car    urban
+yes female     car    urban
+yes   male     car    urban
+yes   male  pickup    urban
+yes   male     car    urban
+yes   male     van    urban
+yes female     car    urban
+yes   male     SUV    urban
+ no female     car    urban
+yes   male     car    urban
+ no   male     car    urban
+ no female  pickup    urban
+ no   male     van    urban
+yes   male  pickup    urban
+yes   male     SUV    urban
+yes   male     car    urban
+yes female     car    urban
+yes female     car    urban
+ no female     SUV    urban
+yes   male     SUV    urban
+yes female     car    urban
+yes female     SUV    urban
+ no   male     car    urban
+yes female     car    urban
+yes   male     SUV    urban
+yes   male     van    urban
+yes   male     car    urban
+yes   male     car    urban
+yes   male     car    urban
+yes   male     car    urban
+yes female     SUV    urban
+yes female     car    urban
+yes   male  pickup    urban
+yes   male     SUV    urban
+ no   male     SUV    urban
+yes female     van    urban
+yes   male     car    urban
+yes   male     car    urban
+yes   male     car    urban
+yes   male  pickup    urban
